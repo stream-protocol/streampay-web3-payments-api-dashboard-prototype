@@ -1,6 +1,7 @@
 # StreamPay Dashboard - Web3 Payments API Dashboard Prototype v.0.1.0
 
-## Accept crypto payments easy
+
+### Accept crypto payments easy
 
 StreamPay is a complete Web3 payments platform, starting with Solana. We make it easy for merchants, creators & projects to integrate crypto payments in their apps or workflow.
 

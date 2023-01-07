@@ -15,7 +15,7 @@ StreamPay solutions include e-commerce, Subscriptions, Pay Links, Pay Streams, P
 - Invoices
 - Tips
 
-Dashboard Prototype & Figma Desings: (https://www.figma.com/file/seHrAKL4abwRyqs9lcaq8J/Untitled?node-id=0%3A1&t=hu6PyJkw69OMiNnx-1)
+Dashboard Prototype & Figma Desings: (https://www.figma.com/file/RiGF3Y4KnYlIqu6LgAoHnf/StreamPay-Dashboard---Web3-Payments-API---Draft-v0.1.0?node-id=0%3A1&t=AbJclHIDDIATvQC8-1)
 
 ### Technical Documentation
 

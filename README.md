@@ -39,4 +39,4 @@ Angular is a platform for building desktop web, mobile applications. Join the co
 
 ##### Contact 
 
-emailto:contact@streamprotocol.org
+contact@streamprotocol.org
